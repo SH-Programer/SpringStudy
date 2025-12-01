@@ -1,0 +1,13 @@
+.metadata
+.settings
+.classpath
+.project
+
+java
+
+target
+
+*.log
+*.class
+
+servers
