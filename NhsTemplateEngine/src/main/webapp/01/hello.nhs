@@ -1,0 +1,18 @@
+<html>
+
+<head>
+	<style>
+		h4 {
+			background-color: yellow;
+		}
+	</style>
+</head>
+
+<body>
+	<h4>Hello 안녕 {{today}}</h4>
+	<h4>{{now}}</h4>
+	<h4>{{sessionAttr}}</h4>
+	<h4>{{applicationAttr}}</h4>
+</body>
+	
+</html>
